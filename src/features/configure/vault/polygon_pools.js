@@ -63,10 +63,10 @@ export const polygonPools = [
     ],
     stratType: 'StratLP',
     withdrawalFee: '0%',
-    addLiquidityUrl:
-      'https://quickswap.exchange/#/add/0xE5417Af564e4bFDA1c483642db72007871397896/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063',
     buyTokenUrl:
       'https://quickswap.exchange/#/swap?inputCurrency=0x8f3cf7ad23cd3cadbd9735aff958023239c6a063&outputCurrency=0xE5417Af564e4bFDA1c483642db72007871397896',
+    addLiquidityUrl:
+      'https://quickswap.exchange/#/add/0xE5417Af564e4bFDA1c483642db72007871397896/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063',
   },
   {
     id: 'jarvis-2jpy',
