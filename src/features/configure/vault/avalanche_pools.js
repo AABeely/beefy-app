@@ -67,9 +67,6 @@ export const avalanchePools = [
     buyTokenUrl:
       'https://app.pangolin.exchange/#/swap?inputCurrency=0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab&outputCurrency=0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7',
   },
-  ///////////////////////////////////////////////////////////////////
-  ///////////////////////////////////////////////////////////////////
-  ///////////////////////////////////////////////////////////////////
   {
     id: 'png-wavax-usdt.e',
     name: 'AVAX-USDT.e LP',
