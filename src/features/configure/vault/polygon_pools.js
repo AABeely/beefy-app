@@ -63,9 +63,9 @@ export const polygonPools = [
     stratType: 'StratLP',
     withdrawalFee: '0%',
     buyTokenUrl:
-      'https://quickswap.exchange/#/swap?inputCurrency=0x51869836681bce74a514625c856afb697a013797&outputCurrency=0x831753dd7087cac61ab5644b308642cc1c33dc13',
+      'https://app.sushi.com/en/swap#/swap?inputCurrency=0x4e1581f01046efdd7a1a2cdb0f82cdd7f71f2e59&outputCurrency=0x7ceb23fd6bc0add59e62ac25578270cff1b9f619',
     addLiquidityUrl:
-      'https://quickswap.exchange/#/add/0x51869836681bce74a514625c856afb697a013797/0x831753dd7087cac61ab5644b308642cc1c33dc13',
+      'https://app.sushi.com/add/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59',
   },
   {
     id: 'quick-psp-matic',
