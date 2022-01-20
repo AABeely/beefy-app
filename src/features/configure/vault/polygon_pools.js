@@ -54,8 +54,8 @@ export const polygonPools = [
     assets: ['ICE', 'WETH'],
     risks: [
       'COMPLEXITY_LOW',
-      'BATTLE_TESTED',
       'MCAP_MICRO',
+      'BATTLE_TESTED',
       'IL_HIGH',
       'PLATFORM_ESTABLISHED',
       'CONTRACTS_VERIFIED',
