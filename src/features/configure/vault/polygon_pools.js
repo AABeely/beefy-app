@@ -1965,7 +1965,7 @@ export const polygonPools = [
     depositsPaused: false,
     status: 'active',
     platform: 'IronFinance',
-    assets: ['ICE', 'IRON'],
+    assets: ['ironICE', 'IRON'],
     addLiquidityUrl:
       'https://exchange.dfyn.network/#/add/0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef/0xD86b5923F3AD7b585eD81B448170ae026c65ae9a',
     buyTokenUrl:
@@ -3439,7 +3439,7 @@ export const polygonPools = [
     depositsPaused: true,
     status: 'eol',
     platform: 'Other',
-    assets: ['ICE', 'DFYN'],
+    assets: ['ironICE', 'DFYN'],
     retireReason: 'rewards',
     addLiquidityUrl:
       'https://exchange.dfyn.network/#/add/0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
@@ -3465,7 +3465,7 @@ export const polygonPools = [
     depositsPaused: false,
     status: 'active',
     platform: 'IronFinance',
-    assets: ['ICE', 'ETH'],
+    assets: ['ironICE', 'ETH'],
     addLiquidityUrl: 'https://app.firebird.finance/add/0xf1ee78544a1118f2efb87f7eacd9f1e6e80e1ea5',
     buyTokenUrl:
       'https://app.firebird.finance/swap?outputCurrency=0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef',
@@ -3489,7 +3489,7 @@ export const polygonPools = [
     depositsPaused: false,
     status: 'active',
     platform: 'IronFinance',
-    assets: ['ICE', 'USDC'],
+    assets: ['ironICE', 'USDC'],
     addLiquidityUrl:
       'https://exchange.dfyn.network/#/add/0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
     buyTokenUrl:
