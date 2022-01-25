@@ -35,8 +35,8 @@ export const polygonPools = [
   },
   {
     id: 'popsicle-ice-eth',
-    name: 'ICE-WETH LP',
-    token: 'ICE-WETH LP',
+    name: 'ICE-ETH LP',
+    token: 'ICE-ETH LP',
     tokenDescription: 'Popsicle',
     tokenAddress: '0x941eb28e750C441AEF465a89E43DDfec2561830b',
     tokenDecimals: 18,
@@ -51,7 +51,7 @@ export const polygonPools = [
     depositsPaused: false,
     status: 'active',
     platform: 'Popsicle',
-    assets: ['ICE', 'WETH'],
+    assets: ['ICE', 'ETH'],
     risks: [
       'COMPLEXITY_LOW',
       'MCAP_MICRO',
